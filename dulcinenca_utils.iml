@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/../utils/lib/jsoup-1.7.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../utils/lib/commons-io-2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../utils/lib/mail-1.4.7.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/../utils/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../utils/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../utils">
+      <sourceFolder url="file://$MODULE_DIR$/../utils/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../utils/resources" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="jsoup-1.7.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../utils/lib/jsoup-1.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../utils/lib/commons-io-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mail-1.4.7.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../utils/lib/mail-1.4.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
